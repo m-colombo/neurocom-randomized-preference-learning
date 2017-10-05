@@ -1,0 +1,3 @@
+[submodule "ESN"]
+	path = ESN
+	url = git@github.com:m-colombo/Tensorflow-EchoStateNetwork.git
