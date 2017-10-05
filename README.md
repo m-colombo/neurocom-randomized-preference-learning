@@ -1,9 +1,11 @@
 ### Randomized neural networks for preference learning with physiological data
 
 Reference code for the paper:
+
 `D. Bacciu,  M. Colombo, D. Morelli, D. Plans, Randomized neural networks for preference learning with physiological data, provisionally accepted for publication in the Neurocomputing journal (minor revision), 2017`
 
 Should you use the code, please cite (provisionally):
+
 `D. Bacciu,  M. Colombo, D. Morelli, D. Plans,  ELM Preference Learning for Physiological Data, Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN'17), i6doc.com, Louvain-la-Neuve, Belgium, 2017`
 
 
